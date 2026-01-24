@@ -1,6 +1,6 @@
 Sistema de Gestión de Pedidos
 
-OrderFlow es un sistema de gestión de pedidos inspirado en un e-commerce básico. Permite a los usuarios crear pedidos a partir de un carrito de compras, gestionar productos categorizados y manejar el ciclo de vida completo de un pedido, desde su creación hasta su envío.
+un sistema de gestión de pedidos inspirado en un e-commerce básico. Permite a los usuarios crear pedidos a partir de un carrito de compras, gestionar productos categorizados y manejar el ciclo de vida completo de un pedido, desde su creación hasta su envío.
 
 Objetivos del Proyecto
 
